@@ -1,0 +1,40 @@
+.custom-width{
+    width: 450px !important;
+}
+
+.row{
+    flex-direction: column;
+    align-items: center;
+}
+
+.login-form-btn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.custom{
+    margin-top: 50px;
+}
+
+.card-style{
+    width:250px;
+    margin-top: 30px;
+
+}
+
+.card-wrapper{
+    display:flex;
+    gap: 50px;
+
+    
+}
+
+.bg-image-card{
+    width: 350px !important;
+    height: 350px !important;
+}
+
+.email{
+    width: 300px !important;
+}
